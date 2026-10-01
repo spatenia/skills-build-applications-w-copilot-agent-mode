@@ -1,0 +1,25 @@
+.app-shell {
+  min-height: 100vh;
+  background: linear-gradient(180deg, #f8fafc 0%, #eef5ff 100%);
+}
+
+.navbar {
+  box-shadow: 0 4px 20px rgba(15, 23, 42, 0.12);
+}
+
+.nav-link {
+  font-weight: 600;
+}
+
+.card {
+  border-radius: 1rem !important;
+}
+
+.table th,
+.table td {
+  vertical-align: middle;
+}
+
+.badge {
+  text-transform: capitalize;
+}
